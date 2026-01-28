@@ -10,5 +10,6 @@ public class ClassA
     ClassA()
     {
         System.out.println("Class A constructor is created");
+        System.out.println("Class A constructor is created 2nd time");
     }
 }
